@@ -1,5 +1,5 @@
 # Candle Burning Experiment
-***Goal:** Investigate the effect of additives and freezing on candle-burning rates.
+**Goal:** Investigate the effect of additives and freezing on candle-burning rates.
 
 ## Description:
 This project explored how different treatments (e.g., salt, baking soda, essential oils, freezing) impacted the burning rates of taper candles. Using statistical methods like one-way ANOVA and post-hoc comparisons, we analyzed differences in burning rates among treatment groups.
@@ -14,5 +14,5 @@ This project explored how different treatments (e.g., salt, baking soda, essenti
 - Freezing candles did not significantly slow down their burning rates.
 
 ## Tools and Techniques:
-**Tools:** R
-**Techniques:** One-Way ANOVA, Welch's ANOVA, Tukey's Post-Hoc Test
+- **Tools:** R
+- **Techniques:** One-Way ANOVA, Welch's ANOVA, Tukey's Post-Hoc Test
