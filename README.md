@@ -14,5 +14,5 @@ This project explored how different treatments (e.g., salt, baking soda, essenti
 - Freezing candles did not significantly slow down their burning rates.
 
 ## Tools and Techniques:
-- **Tools:** R
+- **Tools:** R, SAS
 - **Techniques:** One-Way ANOVA, Welch's ANOVA, Tukey's Post-Hoc Test
